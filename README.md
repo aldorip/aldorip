@@ -56,9 +56,9 @@
 
 ## 🌐 Onde me encontrar
 
-- 📬 Telegram: [@SeuUserTelegram](https://t.me/SeuUserTelegram)
-- 🖥️ LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)
-- 📂 Meus projetos: [github.com/seuusuario](https://github.com/seuusuario)
+- 📬 Telegram: [@SeuUserTelegram](https://t.me/aldorip)
+- 🖥️ LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/aldo-ribeiro-7b61a646)
+- 📂 Meus projetos: [github.com/seuusuario](https://github.com/aldorip)
 
 ---
 
