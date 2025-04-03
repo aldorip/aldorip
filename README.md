@@ -1,6 +1,10 @@
-<h1 align="center">🧠 Aldo Ribeiro | Automação e Bots Inteligentes</h1>
+<a align="center" href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=4b76cc&center=true&vCenter=true&random=false&width=560&height=59&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+Perfil+%F0%9F%91%8B" alt="Typing SVG">
+</a>
 
-<p align="center">
+<h1 align="lefth">🧠 Aldo Ribeiro | Automação e Bots Inteligentes</h1>
+
+<p align="lefth">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
