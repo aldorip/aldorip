@@ -1,10 +1,10 @@
-<a align="center" href="https://git.io/typing-svg">
+<a align="left" href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=4b76cc&center=true&vCenter=true&random=false&width=560&height=59&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+Perfil+%F0%9F%91%8B" alt="Typing SVG">
 </a>
 
-<h1 align="lefth">🧠 Aldo Ribeiro | Automação e Bots Inteligentes</h1>
+<h1 align="left">🧠 Aldo Ribeiro | Automação e Bots Inteligentes</h1>
 
-<p align="lefth">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -12,6 +12,13 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
+
+<div align="left">
+  <a href="https://github.com/aldorip">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldorip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldorip&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+</div>
 
 ---
 
