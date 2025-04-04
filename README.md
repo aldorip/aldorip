@@ -28,6 +28,16 @@ Sou apaixonado por automações, bots e inteligência de sistemas. Me especializ
 
 ---
 
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldorip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldorip&layout=compact&langs_count=10&theme=tokyonight&hide=html"/>
+</div>
+
+
+---
+
 ## 🚀 Destaques
 
 | 💡 Projeto | 📝 Descrição |
@@ -75,17 +85,6 @@ Sou apaixonado por automações, bots e inteligência de sistemas. Me especializ
   <a href="https://github.com/aldorip"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldorip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldorip&layout=compact&langs_count=10&theme=tokyonight&hide=html"/>
-</div>
-
-
----
 
 > *"Automação não é o futuro. É o presente bem feito."* 🚀  
 > — **Aldo Ribeiro**
