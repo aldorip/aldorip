@@ -45,6 +45,29 @@ Sou apaixonado por automações, bots e inteligência de sistemas. Me especializ
   </table>
 </div>
 
+---
+
+### 🏆 Troféus GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aldorip&theme=tokyonight&margin-w=10"/>
+</p>
+
+---
+
+### 🔥 Streak de Contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aldorip&theme=tokyonight&hide_border=false"/>
+</p>
+
+---
+
+### 📈 Atividade Recentemente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aldorip&theme=tokyo-night"/>
+</p>
 
 ---
 
@@ -64,7 +87,7 @@ Sou apaixonado por automações, bots e inteligência de sistemas. Me especializ
 
 > 💻 **Linguagens e Frameworks**
 
-- `Python`, `Django`, `Flet`, `Streamlit`, `tkinter`
+- `Python`, `Django`, `Flet`, `Streamlit`, `tkinter`, `C`
 - `Telethon`, `Pyrogram`
 
 > 🧰 **Ferramentas e Banco de Dados**
@@ -94,7 +117,6 @@ Sou apaixonado por automações, bots e inteligência de sistemas. Me especializ
   <a href="https://linkedin.com/in/aldo-ribeiro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/aldorip"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
 
 > *"Automação não é o futuro. É o presente bem feito."* 🚀  
 > — **Aldo Ribeiro**
