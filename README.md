@@ -68,7 +68,7 @@
 ## 🌐 Onde me encontrar
 
 - 📬 Telegram: [@aldorip](https://t.me/aldorip)
-- 🖥️ LinkedIn: [linkedin.com/in/aldo-ribeiro-7b61a646](https://linkedin.com/in/aldo-ribeiro-7b61a646)
+- 🖥️ LinkedIn: [linkedin.com/in/aldo-ribeiro](https://linkedin.com/in/aldo-ribeiro)
 - 📂 Meus projetos: [github.com/aldorip](https://github.com/aldorip)
 
 ---
