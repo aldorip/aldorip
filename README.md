@@ -77,19 +77,34 @@ Sou apaixonado por automações, bots e inteligência de sistemas. Me especializ
 
 ## 💼 Skills & Ferramentas
 
-> 💻 **Linguagens e Frameworks**
+### 💻 Linguagens e Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flet-3F3D56?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tkinter-FFCA28?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
 
-- `Python`, `Django`, `Flet`, `Streamlit`, `tkinter`, `C`
-- `Telethon`, `Pyrogram`
+### 🧰 Ferramentas e Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
 
-> 🧰 **Ferramentas e Banco de Dados**
-
-- `PostgreSQL`, `SQLite`, `Docker`, `PM2`
-- `Linux`, `Git`, `GitHub Actions`
-
-> 📊 **Análise de Dados & Machine Learning**
-
-- `pandas`, `matplotlib`, `sklearn`, `seaborn`
+### 📊 Análise de Dados & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-2E6E8E?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
