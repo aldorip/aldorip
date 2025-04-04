@@ -63,14 +63,6 @@ Sou apaixonado por automações, bots e inteligência de sistemas. Me especializ
 
 ---
 
-### 📈 Atividade Recentemente
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aldorip&theme=tokyo-night"/>
-</p>
-
----
-
 ## 🚀 Destaques
 
 | 💡 Projeto | 📝 Descrição |
