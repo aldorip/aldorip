@@ -1,6 +1,8 @@
+<div align="center">
 <a align="center" href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Hind&weight=500&size=30&duration=4000&pause=2000&color=4b76cc&center=true&vCenter=true&random=false&width=560&height=59&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+Perfil+%F0%9F%91%8B" alt="Typing SVG">
 </a>
+</div>
 
 <h1 align="center">🧠 Aldo Ribeiro | Automação e Bots Inteligentes</h1>
 
