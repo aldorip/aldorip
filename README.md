@@ -31,8 +31,16 @@ Sou apaixonado por automações, bots e inteligência de sistemas. Me especializ
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldorip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldorip&layout=compact&langs_count=10&theme=tokyonight&hide=html"/>
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldorip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldorip&layout=compact&langs_count=10&theme=tokyonight&hide=html"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
